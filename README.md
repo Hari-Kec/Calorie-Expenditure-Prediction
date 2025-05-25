@@ -8,7 +8,7 @@ This repository contains my solution for a Kaggle competition focused on predict
 - **Target Variable:** `Calories` (continuous)
 - **Evaluation Metric:** Root Mean Squared Logarithmic Error (RMSLE)
 - **Data Source:** A synthetic dataset derived from the original "Calories Burnt Prediction" dataset, generated using a deep learning model.
-- **Platform:** [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/haris2004lskhari))
+- **My Platform:** [Kaggle](https://www.kaggle.com/haris2004lskhari)
 
 
 
